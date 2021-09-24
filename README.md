@@ -13,6 +13,8 @@ do salário ou então o empréstimo será negado.
 ***
 
 ### Tabela criada com a linguagem Markdown
+--> Apenas um exemplo de uma solicitação de empréstimo.
+
 
 **ID** | **Nome** | **Idade** | **Aprovação**
 ---|---|---|---
@@ -20,5 +22,3 @@ do salário ou então o empréstimo será negado.
 2 | Carlos | 62 Anos | Não
 3 | Júlia | 25 Anos | Sim
 4 | Bia | 50 Anos | Não
-
---> Apenas um exemplo de uma solicitação de empréstimo.
