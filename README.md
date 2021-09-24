@@ -1,6 +1,11 @@
 # Código em Python - Estudo
 # Estudando If, Elif e Else (Estrutura de repetição).
 
+DESAFIO 036: Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa.
+O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar.
+Calcule o valor da prestação mensal, sabendo que ele não pode exceder 30%
+do salário ou então o empréstimo será negado.
+
 import time
 
 print('\n\t\t\t\033[1;30;41mVAMOS CALCULAR UM EMPRÉSTIMO?\033[m\n\033[1;30;41m------------------------------------------------------\033[m\n')
