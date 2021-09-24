@@ -1,11 +1,10 @@
 # Código em Python - Estudo
- Estudando If, Elif e Else (Estrutura de repetição).
+# Estudando If, Elif e Else (Estrutura de repetição).
 
 import time
 
 print('\n\t\t\t\033[1;30;41mVAMOS CALCULAR UM EMPRÉSTIMO?\033[m\n\033[1;30;41m------------------------------------------------------\033[m\n')
 
-# Valores que o usuário terá que colocar como entrada.
 valorCasa = float(input('Qual o valor da casa que deseja financiar?\033[0;32m R$ \033[m'))
 salario = float(input('Qual é o seu salário?\033[0;32m R$ \033[m'))
 anosParcela = int(input('Em quantos anos pretende pagar? '))
