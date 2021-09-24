@@ -1,2 +1,2 @@
 # Código em Python - Estudo
- Estudando estrutura de repetição: Ef, Elif e Else.
+ Estudando If, Elif e Else (Estrutura de repetição).
