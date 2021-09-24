@@ -6,4 +6,19 @@ O programa vai perguntar o valor da casa, o salário do comprador e em quantos a
 Calcule o valor da prestação mensal, sabendo que ele não pode exceder 30%
 do salário ou então o empréstimo será negado.
 
-🏦🏦🏦🏦🏦🏦
+***
+
+🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦
+
+***
+
+### Tabela criada com a linguagem Markdown
+
+**ID** | **Nome** | **Idade** | **Aprovação**
+---|---|---|---
+1 | João | 39 anos | Sim
+2 | Carlos | 62 Anos | Não
+3 | Júlia | 25 Anos | Sim
+4 | Bia | 50 Anos | Não
+
+--> Apenas um exemplo de uma solicitação de empréstimo.
