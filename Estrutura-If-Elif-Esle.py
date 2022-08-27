@@ -1,17 +1,9 @@
-# Python-Estudo
-## Estudando If, Elif e Else (Estrutura de condição).
 
-DESAFIO 036: Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa.
-O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar.
-Calcule o valor da prestação mensal, sabendo que ele não pode exceder 30%
-do salário ou então o empréstimo será negado.
-
-<<<<<<< HEAD
 import time
 
 print('\n\t\t\t\033[1;30;41mVAMOS CALCULAR UM EMPRÉSTIMO?\033[m\n\033[1;30;41m------------------------------------------------------\033[m\n')
 
-
+# Valores que o usuário terá que colocar como entrada.
 valorCasa = float(input('Qual o valor da casa que deseja financiar?\033[0;32m R$ \033[m'))
 salario = float(input('Qual é o seu salário?\033[0;32m R$ \033[m'))
 anosParcela = int(input('Em quantos anos pretende pagar? '))
@@ -83,21 +75,3 @@ if prestasaoMensal <= porcentagemSalario:   # Se o valor das prestações for ab
 else:
     print('\n\033[1;31mO seu empréstimo não foi aprovado!')
     print('Excedeu 30% do valor do seu salário.\033[m')
-=======
-***
-
-🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦🏦
-
-***
-
-### Tabela criada com a linguagem Markdown
---> Apenas um exemplo de uma solicitação de empréstimo.
-
-
-**ID** | **Nome** | **Idade** | **Aprovação**
----|---|---|---
-1 | João | 39 anos | Sim
-2 | Carlos | 62 Anos | Não
-3 | Júlia | 25 Anos | Sim
-4 | Bia | 50 Anos | Não
->>>>>>> 556b133a5b7e01a1c73e81eb7ca0fc7caa1ac66e
