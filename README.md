@@ -1,4 +1,4 @@
-# Python-Estudo
+# Colocando em Prática
 ## Estudando If, Elif e Else (Estrutura de condição).
 
 DESAFIO 036: Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa.
